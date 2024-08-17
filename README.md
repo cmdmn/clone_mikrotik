@@ -123,11 +123,11 @@ Now get this repo and install all services:
 
 ```bash
 # Clone this repo
-git clone https://github.com/M0r13n/mikrotik_monitoring.git
+git clone https://github.com/cmdmn/clone_mikrotik.git
 
 
 # Go into the cloned directory
-cd mikrotik_monitoring
+cd clone_mikrotik
 
 # Let docker-compose do it's job
 docker compose up -d
